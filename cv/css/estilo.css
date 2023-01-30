@@ -1,0 +1,37 @@
+body {
+  position: relative; 
+  font-family: 'Titillium Web', sans-serif;
+}
+
+h1 {
+  color: rgb(55, 15, 236);
+  text-shadow: 1px 1px 2px rgb(105, 148, 48), 0 0 25px blue, 0 0 5px darkblue;
+  text-align: center;
+  font-size: 60px;
+ }
+
+ 
+p {
+  color: rgb(15, 15, 224);
+  font-size: 25px;
+}
+
+h2 {
+  color: rgb(78, 9, 238);
+  text-shadow: 2px 2px 4px #2d0de0;
+  font-size: 40px;
+ }
+
+#section {padding-top:50px;height:500px;color: #fff; background-color: #d8e2eb;}
+#section1 {padding-top:50px;height:500px;color: #fff; background-color: #d8e2eb;}
+#section2 {padding-top:50px;height:500px;color: #fff; background-color: #e3e5eb;}
+#section3 {padding-top:50px;height:500px;color: #fff; background-color: #f5ebdc;}
+#section41 {padding-top:50px;height:500px;color: #fff; background-color: #eef7f4;}
+#section42 {padding-top:50px;height:500px;color: #fff; background-color: #ebf1f1;}
+#section43 {padding-top:50px;height:500px;color: #fff; background-color: #ebf0d4;}
+
+.footer {
+  background-color: #ac9fbb;
+  text-align: center;
+  padding: 10px;
+}
